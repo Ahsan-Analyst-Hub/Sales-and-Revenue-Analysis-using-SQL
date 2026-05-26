@@ -1,5 +1,7 @@
 # Sales & Revenue Analysis Using SQL
 
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/5777ecca-3550-4a76-b6c7-ef8d20a83644" />
+
 ## Project Overview
 
 This project focuses on analyzing customer purchasing behavior, product performance, and company revenue using SQL.  
