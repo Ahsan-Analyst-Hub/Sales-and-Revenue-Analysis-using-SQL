@@ -202,3 +202,13 @@ If the recommendations are implemented successfully, the company can achieve:
 This project demonstrates how SQL and data analytics can transform raw business data into actionable insights.
 
 By analyzing customer behavior, product performance, and sales trends, businesses can make smarter decisions that directly improve profitability and long-term success.
+
+---
+
+## Author
+- Ahsan ul haq
+
+--- 
+
+## License
+- This project is intended for educational and portfolio purposes.
